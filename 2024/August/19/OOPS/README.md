@@ -1,5 +1,3 @@
-Certainly! Let's break down the code step by step:
-
 ### 1. **Prototype-based Inheritance (Initial Example)**
 
 ```javascript
